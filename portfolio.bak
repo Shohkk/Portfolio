@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 21.0.0.2 Trial for Windows">
+<title></title>
+<link rel="stylesheet" href="portfoli.css" type="text/css">
+</head>
+<body>
+<h1><font FACE="メイリオ">Shoh's Portfolio</font></h1>
+<hr width="600">
+<header>
+  <ul>
+      <li>HOME</li>
+      <li>PROFILE</li>
+      <li>WORKS</li>
+      <li>CONTACTS</li>
+  </ul>
+</header>
+<p><br>
+</p>
+<h2><font FACE="メイリオ">自己紹介</font></h2>
+<div class="profile">
+<p>はじめまして、私は平成11年生まれ大学3年のShohと申します。<br>
+  大学入学後にVRに興味をもち、UnityとUE4を用いてVRを利用したアプリを主に開発しています。<br>
+21年卒で現在就職活動をしています。</p>
+</div>
+<p><br>
+<br>
+<br>
+</p>
+<h2><font FACE="メイリオ">WORKS</font></h2>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">&nbsp;<img src="pivc/U4JXzkRMeBUkh0E1582898702_1582898713.png" width="365" height="274" border="0"></td>
+        <td align="center"><img src="pivc/72069902_2063852297047617_6214459309535789056_o.jpg" width="468" height="330" border="0">&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+        <h3 align="center"><font FACE="メイリオ">RabbitCarrot&nbsp;</font></h3>
+        </td>
+        <td>
+        <h3 align="center"><font FACE="メイリオ">ProjectV</font>&nbsp;</h3>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">&nbsp;大学内の授業で制作した２Dスクロールゲームです。うさぎの女の子を操作して、人参を広いながら<br>
+        ゴールを目指すシンプルなゲームです。イラスト、プログラムはすべて自分で制作しました。</td>
+        <td>北海道情報大学のVtuberを作り大学のプロモーションをすることなどを目的としたプロジェクトです。<br>
+        バーチャルマーケットへの出展、学校祭でのvtuberの展示、モーションキャプチャーを利用した動画<br>
+        の制作などの活動をしています。<br>
+        このプロジェクトの中で私はバーチャルマーケットの出展用ブースのUnityの作業、学校祭の<br>
+        展示を行いました。３月以降に本格的に活動を開始する、モーションキャプチャーを利用した<br>
+        Vtuberの動画の制作を行う予定です。</td>
+      </tr>
+      <tr>
+        <td align="center">Unity,ClipStudio&nbsp;</td>
+        <td align="center">&nbsp;Unity,blender</td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://shohkk.github.io/RabbitCarrot/" style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: underline; outline-width: 0px; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">https://shohkk.github.io/RabbitCarrot/</a>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+<tr>
+	<td><br>
+        <br>
+        <br>
+        </td>
+	<td><br>
+        <br>
+        <br>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">&nbsp;<img src="pivc/Desktop Screenshot 2020.02.29 - 20.21.51.28.png" width="330" height="184" border="0"><img src="pivc/Desktop Screenshot 2020.02.29 - 20.22.20.55.png" width="333" height="186" border="0"></td>
+        <td align="center">&nbsp;<img src="Desktop Screenshot 2020.03.01 - 21.11.10.93.png" width="427" height="240" border="0"></td>
+      </tr>
+      <tr>
+        <td>
+        <h3 align="center"><font FACE="メイリオ">アースダイバー</font></h3>
+        </td>
+        <td>3DCG SDキャラクター</td>
+      </tr>
+      <tr>
+        <td align="center">&nbsp;ゼミナールの酒井先生と株式会社レアックス様が共同研究しているVRアプリケーションです。<br>
+        VRによる地中画像を解析するシステムで、ボーリング孔内の岩盤評価やボアホールカメラ<br>
+        を使った地質調査技術の普及を目的としています。<br>
+        プロトタイプができているところからこのプロジェクトに参加し、実際の開発を引き継ぐ形で、<br>
+        追加機能などすべて私が担当しています。使用ソフトウェアはUE4を使用しています。<br>
+        オープンキャンパスでの展示で高校生に体験をしてもらいました。</td>
+        <td>大学の授業で製作した、３ＤＣＧのＳＤキャラクターです。<br>
+        すべて自作しており、サンプル等は一切使用していません。歩く、走るなどのアニメーション<br>を</td>
+      </tr>
+      <tr>
+        <td align="center">Unreal Engine4,Blender&nbsp;</td>
+        <td align="center">&nbsp;Unity,blender</td>
+      </tr>
+      <tr>
+        <td align="center">
+        <meta charset="utf-8">
+        <b style="font-weight:normal;" id="docs-internal-guid-60acdcc8-7fff-f7f7-aeee-43313d668227"></b>
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><b style="font-weight:normal;" id="docs-internal-guid-60acdcc8-7fff-f7f7-aeee-43313d668227"><a href="https://www.sapporo-cci.or.jp/web/business/files/%28%E6%A0%AA%29%E3%83%AC%E3%82%A2%E3%83%83%E3%82%AF%E3%82%B9.pdf?fbclid=IwAR3uRMF3zVtjymhn96e_RK1saiOHtLLBpOZlZR91PYER-4WO_sTR7mfvmbU" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://www.sapporo-cci.or.jp/web/business/files/%28%E6%A0%AA%29%E3
+%83%AC%E3%82%A2%E3%83%83%E3%82%AF%E3%82%B9.pdf?fbclid=
+IwAR3uRMF3zVtjymhn96e_RK1saiOHtLLBpOZlZR91PYER-4WO_sTR7mfvmbU</span></a></b></p>
+        <b style="font-weight:normal;" id="docs-internal-guid-60acdcc8-7fff-f7f7-aeee-43313d668227"></b></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
+</body>
+</html>
